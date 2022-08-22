@@ -33,7 +33,7 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="SignaturExample" />
+              <option name="name" value="SignatureExample" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -48,7 +48,7 @@
                 <option name="path" value="$PROJECT_DIR$/../node_modules/react-native-signature-capture/android" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="SignaturExample" />
+                <option name="name" value="SignatureExample" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -62,17 +62,17 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'SignaturExample'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'SignatureExample'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'SignaturExample'." />
+                <option name="description" value="Displays all dependencies declared in root project 'SignatureExample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'SignaturExample'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'SignatureExample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -87,22 +87,22 @@
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'SignaturExample'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'SignatureExample'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'SignaturExample'." />
+                <option name="description" value="Displays the sub-projects of root project 'SignatureExample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'SignaturExample'." />
+                <option name="description" value="Displays the properties of root project 'SignatureExample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'SignaturExample' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'SignatureExample' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -554,9 +554,9 @@
                 <option name="name" value="prepareReleaseUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare SignaturExample:reactnativesignaturecapture:unspecified" />
+                <option name="description" value="Prepare SignatureExample:reactnativesignaturecapture:unspecified" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareSignaturExampleReactnativesignaturecaptureUnspecifiedLibrary" />
+                <option name="name" value="prepareSignatureExampleReactnativesignaturecaptureUnspecifiedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1214,9 +1214,9 @@
                 <option name="name" value="prepareReleaseUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare SignaturExample:reactnativesignaturecapture:unspecified" />
+                <option name="description" value="Prepare SignatureExample:reactnativesignaturecapture:unspecified" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareSignaturExampleReactnativesignaturecaptureUnspecifiedLibrary" />
+                <option name="name" value="prepareSignatureExampleReactnativesignaturecaptureUnspecifiedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />

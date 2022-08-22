@@ -47,7 +47,7 @@ MERGED from [com.android.support:support-v4:23.0.1] /Users/john.francis/Projects
 		ADDED from /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/src/main/AndroidManifest.xml:9:7-41
 	android:theme
 		ADDED from /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/src/main/AndroidManifest.xml:10:7-38
-activity#com.signaturexample.MainActivity
+activity#com.SignatureExample.MainActivity
 ADDED from /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/src/main/AndroidManifest.xml:11:7-19:18
 	android:label
 		ADDED from /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/src/main/AndroidManifest.xml:13:9-41
@@ -91,7 +91,7 @@ MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/john.francis/Pro
 MERGED from [com.android.support:support-v4:23.0.1] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [SignaturExample:reactnativesignaturecapture:unspecified] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/SignaturExample/reactnativesignaturecapture/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [SignatureExample:reactnativesignaturecapture:unspecified] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/SignatureExample/reactnativesignaturecapture/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.react:react-native:0.22.2] /Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/AndroidManifest.xml:7:5-9:41

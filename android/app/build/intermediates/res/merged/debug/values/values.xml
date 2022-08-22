@@ -221,7 +221,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <!-- From: file:/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">SignaturExample</string>
+    <string name="app_name">SignatureExample</string>
     <!-- From: file:/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/res/values/values.xml -->
     <eat-comment/>
     <string name="catalyst_debugjs" project="catalyst" translatable="false">Debug in Chrome</string>
